@@ -1,0 +1,9 @@
+.whiteTheme{
+    background-color: #eee;
+    color: #000;
+    transition: 200ms;
+}
+.darkTheme {
+    background-color: #000;
+    color: #eee;
+}
